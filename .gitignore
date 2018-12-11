@@ -8,11 +8,12 @@ s*.class
 target/
 
 #idea ignore
-.idea/
+.idea/*
 /idea/
 *.ipr
 *.iml
 *.iws
+/out
 
 #temp file
 *.log
