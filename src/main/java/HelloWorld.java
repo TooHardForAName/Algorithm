@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //测试部分
+//windows下测试
 public class HelloWorld {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
